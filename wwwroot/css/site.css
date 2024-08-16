@@ -1,6 +1,6 @@
 :root {
   --fondos: #b63a11;
-  --fondo-header: #942506;
+  --fondo-header: #f6701dd7;
 }
 
 html {
@@ -27,7 +27,7 @@ html {
 }
 
 body {
-  background-color: black;
+  background-color: rgb(255, 255, 255);
 
 }
 
@@ -41,6 +41,8 @@ body {
 
 #footer{
   background-color: var(--fondo-header);
+  border-color: rgb(0, 0, 0);
+  border-width:100px;
   
 }
 
